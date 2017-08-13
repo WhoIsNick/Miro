@@ -571,7 +571,7 @@ color: #777;
 /* Footer Section*/
 #footer {
 	background: #262626;
-	padding: 50px 0 0 0;
+	padding: 25px 0 0 0;
 }
 #footer h3 {
 	color: #8eb640;
@@ -582,7 +582,7 @@ color: #777;
 }
 #footer .copyrights {
 	padding: 20px 0;
-	margin-top: 50px;
+	margin-top: 25px;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#779936+0,8eb640+50 */
 	background: rgb(119,153,54); /* Old browsers */
 	background: -moz-linear-gradient(top, rgba(119,153,54,1) 0%, rgba(142,182,64,1) 50%); /* FF3.6-15 */
